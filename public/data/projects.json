@@ -1,0 +1,138 @@
+[
+  {
+    "id": 1,
+    "title": "Retail Analytics Dashboard",
+    "shortDescription": "Interactive sales performance dashboard for a national retail chain",
+    "fullDescription": "Designed and implemented a comprehensive retail analytics solution that transformed raw sales data into actionable insights. The dashboard provides real-time monitoring of KPIs, sales trends, and inventory levels across 200+ stores nationwide.",
+    "technicalApproach": "Built using Power BI with direct connection to Azure SQL Data Warehouse. Created custom DAX measures for complex calculations and implemented row-level security to ensure regional managers only see relevant data. Used Power Query for ETL processes and data cleaning.",
+    "keyAchievements": [
+      "Reduced monthly reporting time by 75% (from 4 days to 1 day)",
+      "Enabled data-driven inventory decisions that increased inventory turnover by 15%",
+      "Identified underperforming product categories leading to $1.2M in cost savings",
+      "Automated daily data refresh processes with incremental loading"
+    ],
+    "tags": ["Power BI", "Azure SQL", "DAX", "Retail Analytics", "ETL"],
+    "thumbnails": ["/images/project-1.1.jpg", "/images/retail-thumb2.jpg", "/images/retail-thumb3.jpg"],
+    "videoUrl": "https://www.youtube.com/embed/Tw18-4U7mts",
+    "screenshots": [
+      {
+        "url": "/images/project-1.1.jpg",
+        "caption": "Sales Performance Overview"
+      },
+      {
+        "url": "/images/retail-screen2.jpg",
+        "caption": "Regional Comparison"
+      },
+      {
+        "url": "/images/retail-screen3.jpg",
+        "caption": "Inventory Analysis"
+      },
+      {
+        "url": "/images/retail-screen4.jpg",
+        "caption": "Customer Demographics"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Healthcare Metrics Platform",
+    "shortDescription": "Patient outcomes and operational efficiency tracker for hospital network",
+    "fullDescription": "Created a comprehensive healthcare analytics platform for a network of 12 hospitals to monitor patient outcomes, operational efficiency, and resource utilization. The solution integrated data from EHR systems, billing, and staffing to provide a 360-degree view of performance.",
+    "technicalApproach": "Utilized Tableau for visualization layer connected to a PostgreSQL database. Implemented complex SQL queries for metrics calculations. Designed automated ETL processes using Python to standardize and clean data from multiple sources.",
+    "keyAchievements": [
+      "Reduced average patient wait times by 22% through better resource allocation",
+      "Identified $3.5M in potential billing improvements through analysis of insurance claim patterns",
+      "Created automated anomaly detection for unusual patient outcome patterns",
+      "Implemented predictive model for patient admission forecasting with 87% accuracy"
+    ],
+    "tags": ["Tableau", "PostgreSQL", "Healthcare Analytics", "Python", "ETL"],
+    "thumbnails": ["/images/healthcare-thumb1.jpg", "/images/healthcare-thumb2.jpg", "/images/healthcare-thumb3.jpg"],
+    "videoUrl": "https://www.youtube.com/embed/Tw18-4U7mts",
+    "screenshots": [
+      {
+        "url": "/images/healthcare-screen1.jpg",
+        "caption": "Patient Outcomes Dashboard"
+      },
+      {
+        "url": "/images/healthcare-screen2.jpg",
+        "caption": "Resource Utilization"
+      },
+      {
+        "url": "/images/healthcare-screen3.jpg",
+        "caption": "Staff Efficiency Metrics"
+      },
+      {
+        "url": "/images/healthcare-screen4.jpg",
+        "caption": "Billing Performance"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Financial Services KPI Tracker",
+    "shortDescription": "Executive dashboard for monitoring financial performance metrics",
+    "fullDescription": "Developed an executive-level dashboard for a financial services company to track key performance indicators across investment portfolios, customer acquisition, and operational efficiency. The solution provides both high-level summaries and drill-down capabilities for detailed analysis.",
+    "technicalApproach": "Built using a combination of Tableau and R for statistical analysis. Implemented custom R scripts within Tableau for advanced forecasting. Created secure data pipeline from multiple sources including Salesforce, internal databases, and market data APIs.",
+    "keyAchievements": [
+      "Consolidated 15+ disparate reports into a single source of truth",
+      "Improved investment decision-making speed by providing real-time market correlation analysis",
+      "Created portfolio risk score calculation that identified $12M in high-risk investments",
+      "Automated weekly executive reports that previously required 20+ hours of manual work"
+    ],
+    "tags": ["Tableau", "R", "Financial Analytics", "API Integration", "Statistical Analysis"],
+    "thumbnails": ["/images/finance-thumb1.jpg", "/images/finance-thumb2.jpg", "/images/finance-thumb3.jpg"],
+    "videoUrl": "https://www.youtube.com/embed/Tw18-4U7mts",
+    "screenshots": [
+      {
+        "url": "/images/finance-screen1.jpg",
+        "caption": "Executive Overview"
+      },
+      {
+        "url": "/images/finance-screen2.jpg",
+        "caption": "Portfolio Performance"
+      },
+      {
+        "url": "/images/finance-screen3.jpg",
+        "caption": "Customer Acquisition Funnel"
+      },
+      {
+        "url": "/images/finance-screen4.jpg",
+        "caption": "Risk Analysis"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Supply Chain Optimization Tool",
+    "shortDescription": "End-to-end supply chain visibility and optimization platform",
+    "fullDescription": "Designed and implemented an end-to-end supply chain analytics solution for a manufacturing company with global operations. The platform provides visibility into inventory levels, production efficiency, logistics performance, and supplier reliability.",
+    "technicalApproach": "Created using Power BI with DirectQuery to SQL Server. Implemented geospatial visualizations for logistics route optimization. Used Python integration for predictive modeling of inventory needs and potential supply chain disruptions.",
+    "keyAchievements": [
+      "Reduced excess inventory by 18% through better demand forecasting",
+      "Identified and resolved bottlenecks in production process, increasing throughput by 12%",
+      "Optimized shipping routes resulting in $750K annual savings in logistics costs",
+      "Created supplier scorecard that improved on-time delivery rates by 15%"
+    ],
+    "tags": ["Power BI", "SQL Server", "Python", "Supply Chain", "Geospatial Analysis"],
+    "thumbnails": ["/images/supply-thumb1.jpg", "/images/supply-thumb2.jpg", "/images/supply-thumb3.jpg"],
+    "videoUrl": "https://www.youtube.com/embed/Tw18-4U7mts",
+    "screenshots": [
+      {
+        "url": "/images/supply-screen1.jpg",
+        "caption": "Global Supply Chain Map"
+      },
+      {
+        "url": "/images/supply-screen2.jpg",
+        "caption": "Inventory Optimization"
+      },
+      {
+        "url": "/images/supply-screen3.jpg",
+        "caption": "Supplier Performance"
+      },
+      {
+        "url": "/images/supply-screen4.jpg",
+        "caption": "Production Efficiency"
+      }
+    ]
+  }
+]
