@@ -8,16 +8,18 @@
  * 2. Run this script with: node build-static.js
  */
 
-const fs = require('fs');
-const path = require('path');
-const { execSync } = require('child_process');
+import fs from 'fs';
+import path from 'path';
+import { execSync } from 'child_process';
+import { fileURLToPath } from 'url';
+import { dirname } from 'path';
 
-// Define paths
-const rootDir = __dirname;
+const __filename = fileURLToPath(import.meta.url);
+const rootDir = dirname(__filename);
+
 const staticConfigDir = path.join(rootDir, 'public', 'static-config');
 const distDir = path.join(staticConfigDir, 'dist');
 const dataDir = path.join(rootDir, 'public', 'data');
-
 // Colors for console output
 const colors = {
   reset: '\x1b[0m',

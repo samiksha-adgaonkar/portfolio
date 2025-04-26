@@ -1,0 +1,25 @@
+{
+  "name": "Samiksha Adgaonkar",
+  "title": "Business Intelligence Analyst",
+  "email": "samikshaadgaonkar07@gmail.com",
+  "phone": "+91 7841056852",
+  "location": "Amravati, Maharashtra, India",
+  "photoUrl": "/images/profile-photo.png",
+  "bio": "I'm a data-driven Business Intelligence Analyst with 8+ years of experience transforming complex data into strategic insights. I specialize in creating interactive dashboards and reports that help organizations make better decisions.",
+  "approach": "I believe effective business intelligence is about more than just technical skills. My approach combines technical expertise with deep business domain knowledge and strong communication skills to ensure insights are actionable and understood by all stakeholders.",
+  "resumeUrl": "/files/Samiksha BI Analyst [Mar].pdf",
+  "socialLinks": [
+    {
+      "platform": "linkedin",
+      "url": "https://linkedin.com/in/sarahjohnson"
+    },
+    {
+      "platform": "twitter",
+      "url": "https://twitter.com/sarahjohnson"
+    },
+    {
+      "platform": "github",
+      "url": "https://github.com/sarahjohnson"
+    }
+  ]
+}

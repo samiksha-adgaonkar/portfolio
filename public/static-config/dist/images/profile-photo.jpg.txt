@@ -1,0 +1,1 @@
+This is a placeholder for a profile photo. In a real deployment, replace this with an actual JPG image file.
