@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Senior Business Intelligence Analyst",
+    "company": "Global Finance Partners",
+    "period": "2022 - Present",
+    "responsibilities": [
+      "Lead a team of 3 BI analysts in developing dashboards and reports for C-suite executives",
+      "Design and implement data warehouse solutions using Azure Synapse Analytics",
+      "Create predictive models for market trend analysis and investment opportunity identification",
+      "Collaborate with stakeholders to translate business requirements into technical specifications"
+    ]
+  }
+]
